@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashton-Gates)](https://github.com/anuraghazra/github-readme-stats)
-
-![Ashton-Gates GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashton-Gates)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashton-Gates" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ashton-Gates" />
+    </td>
+  </tr>
+</table>
