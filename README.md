@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashton-Gates)](https://github.com/anuraghazra/github-readme-stats)
 
-![Ashton-Gates GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME)
+![Ashton-Gates GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashton-Gates)
